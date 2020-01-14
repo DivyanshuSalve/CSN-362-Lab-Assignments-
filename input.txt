@@ -1,0 +1,13 @@
+int a; // Yahan se hata de bhai
+cout<<"//"<<endl;
+/* adslfja .sda//a dskfjalds *//**dsfjl akdjs
+int b;
+// */ int c; //sdflkj
+int d; int e;
+int 
+f;
+
+cout<<"/**";
+for(int g;;i++){
+cout<<"*/";  
+}

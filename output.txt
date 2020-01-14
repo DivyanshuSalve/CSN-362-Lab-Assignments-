@@ -1,0 +1,1 @@
+inta;cout<<"//"<<endl;intc;intd;inte;intf;cout<<"/**";for(intg;;i++){cout<<"*/";}
